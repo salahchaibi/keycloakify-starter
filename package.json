@@ -1,11 +1,7 @@
 {
-    "name": "keycloakify-starter",
-    "version": "0.0.0",
-    "description": "Starter for Keycloakify 11",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/codegouvfr/keycloakify-starter.git"
-    },
+    "name": "fsbm-login-theme",
+    "version": "0.0.1",
+    "description": "fsbm login theme",
     "type": "module",
     "scripts": {
         "postinstall": "keycloakify sync-extensions",

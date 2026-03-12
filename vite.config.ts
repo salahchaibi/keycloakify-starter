@@ -6,8 +6,5 @@ import { keycloakify } from "keycloakify/vite-plugin";
 export default defineConfig({
     plugins: [
         react(),
-        keycloakify({
-            accountThemeImplementation: "Multi-Page",
-        })
     ]
 });
