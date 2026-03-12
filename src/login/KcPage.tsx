@@ -6,6 +6,8 @@ import DefaultPage from "keycloakify/login/DefaultPage";
 import Template from "keycloakify/login/Template";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
+import "./pages/Login.css";
+import "./pages/Register.css";
 
 const UserProfileFormFields = lazy(
     () => import("keycloakify/login/UserProfileFormFields")

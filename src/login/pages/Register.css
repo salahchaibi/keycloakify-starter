@@ -1,3 +1,8 @@
+.kc-register-page,
+body {
+    margin: 0;
+}
+
 .kc-register-page {
     min-height: 100vh;
     display: flex;

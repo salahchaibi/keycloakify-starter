@@ -1,3 +1,8 @@
+.kc-login-page,
+body {
+    margin: 0;
+}
+
 .kc-login-page {
     min-height: 100vh;
     display: flex;
